@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# Comment Box
+A [FrontEnd Mentor Challenge](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9).
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- User can add new comments.
+- User can reply to other comments.
+- User can up vote or down vote comments.
+- User can delete and update its comments.
