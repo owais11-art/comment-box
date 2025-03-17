@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* P R I M A R Y  C O L O R S */
+  --moderate-blue: hsl(238, 40%, 52%);
+  --soft-red: hsl(358, 79%, 66%);
+  --light-grayish-blue: #c3c4ef;
+  --pale-red: hsl(357, 100%, 86%);
+
+  /* N E U T R A L  C O L O R S */
+  --dark-blue: hsl(212, 24%, 26%);
+  --grayish-blue: hsl(211, 10%, 45%);
+  --light-gray: hsl(223, 19%, 93%);
+  --very-light-gray: hsl(228, 33%, 97%);
+  --white: hsl(0, 0%, 100%);
+}
+
+html{
+  font-size: 16px;
+  font-family: "Rubik", sans-serif;
+  background-color: var(--light-gray);
+}
+
+.add-comment {
+  border: 1px solid #CCC;
+  height: 70px;
+  padding: 5px;
+  resize: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  color: var(--grayish-blue)
+}
